@@ -6,7 +6,7 @@ def exit_program():
     print("Goodbye!")
     exit()
 
-# We'll implement the department functions in this lesson
+
 
 
 def list_departments():
